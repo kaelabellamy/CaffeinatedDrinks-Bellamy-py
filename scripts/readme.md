@@ -1,1 +1,1 @@
-
+Caffeine.py is a script used to clean up some data about caffeine in various drinks and create a plot. The plot has six subplots, one for each drink. The script contains the code creating each of those.
